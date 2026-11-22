@@ -1,0 +1,15 @@
+# Visual Studio / MSBuild
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.user
+*.suo
